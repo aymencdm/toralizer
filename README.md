@@ -1,4 +1,4 @@
-# toralizeer
+# toralizer
 
 ## Overview
 
