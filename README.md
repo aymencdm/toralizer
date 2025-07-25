@@ -2,7 +2,7 @@
 
 ## Overview
 
-toralizev2 is a dynamic library for transparent SOCKS4 proxying of any Linux command-line application. It is designed for offensive security researchers, red teamers, and penetration testers who need to route arbitrary tools through a SOCKS4 proxy (such as Tor) without modifying the source code of those tools.
+toralizer is a dynamic library for transparent SOCKS4 proxying of any Linux command-line application. It is designed for offensive security researchers, red teamers, and penetration testers who need to route arbitrary tools through a SOCKS4 proxy (such as Tor) without modifying the source code of those tools.
 
 By leveraging LD_PRELOAD, toralizev2 intercepts outgoing TCP connections and transparently redirects them through a configurable SOCKS4 proxy.
 
