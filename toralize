@@ -1,4 +1,1 @@
-#!/bin/bash
-export LD_PRELOAD=/home/kali/opt/c projects/toralizev2/toralize.so 
-${@}
-unset LD_PRELOAD
+
